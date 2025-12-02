@@ -6,7 +6,7 @@ Created by Harsheta Sharma
 
 
 
-##Project Description
+##  Project Description
 
 This data analysis project was created to help answer a question I have often wondered about, does money buy happiness? Yet instead of looking at this question from an individual perspective, I decided to view it from a country’s perspective to see if a country’s GDP directly affects the happiness scores of its inhabitants.
 
