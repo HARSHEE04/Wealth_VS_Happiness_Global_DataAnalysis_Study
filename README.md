@@ -11,7 +11,7 @@ This project takes a **data analytics** approach, comparing **GDP per capita** (
 ## 🎯 Project Objectives  
 - Investigate whether a country's **GDP per capita** directly affects the **overall happiness** of its citizens.  
 - Lay the groundwork for future exploration of other happiness factors such as **freedom, generosity, and social support**.
-
+![Price of Joy dashboard](dashboard.png)
 ---
 
 ## 🧠 Methodology  
