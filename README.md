@@ -33,6 +33,11 @@ This end-to-end data analysis project explores the relationship between a countr
   - Bubble Chart: Enhanced scatter plot with size representing happiness levels
 - **Data Processing**: Custom logic in Python for cleaning and preparing the dataset.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
+
 ## Data Sources
 
 - **World Happiness Report 2024**: Dataset sourced from Kaggle, containing happiness scores, GDP data, and other socio-economic indicators for various countries over multiple years.
@@ -81,23 +86,12 @@ This end-to-end data analysis project explores the relationship between a countr
 
 3. Open your web browser and navigate to `http://127.0.0.1:8050/` to interact with the visualizations.
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
-
 ## Key Findings
 
-*(Note: Add your analysis results here after running the analysis. For example:)*
+
 - There is a positive correlation between GDP per capita and happiness scores, but the relationship is not linear.
 - Other factors like social support, health, and freedom may play significant roles in overall well-being.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
